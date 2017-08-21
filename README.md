@@ -2,7 +2,7 @@
 - Google Machine Learning Challenge 2017
 - https://inclass.kaggle.com/c/kmlc-challenge-1-cats-vs-dogs
 - Classify pictures of cats and dogs
-- Accuracy 0.79001, 28th on leaderboard
+- Accuracy 0.80836, 27th on leaderboard
 
 ### Team members
 [김수근](https://github.com/sogoodkim), [전소현](https://github.com/SohyunJeon), [이지홍](https://github.com/JihongL), [김소령](https://github.com/code-sonya) 
