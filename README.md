@@ -3,6 +3,7 @@
 - https://inclass.kaggle.com/c/kmlc-challenge-1-cats-vs-dogs
 - Classify pictures of cats and dogs
 - Accuracy 0.80836, 27th on leaderboard
+- [CvD_train](http://nbviewer.jupyter.org/github/JihongL/MLChallenge/blob/master/CvD_train.ipynb), [CvD_test](https://github.com/JihongL/MLChallenge/blob/master/CvD_test.ipynb)
 
 ### Team members
 [김수근](https://github.com/sogoodkim), [전소현](https://github.com/SohyunJeon), [이지홍](https://github.com/JihongL), [김소령](https://github.com/code-sonya) 
